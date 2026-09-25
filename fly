@@ -1,0 +1,13 @@
+class insect():
+ def grasshopper(self):
+  print("Grasshopper can fly and jump")
+ def butterfly(self):
+  print("is beautiful")
+class animal():
+ def lion():
+  print("lion the king of forest")
+a=insect()
+b=animal()
+a.grasshopper()
+a.butterfly()
+b.lion()
